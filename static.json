@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "maximfinance92"
+      "X-Author": "maximfinance92",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
